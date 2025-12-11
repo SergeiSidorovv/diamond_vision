@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 Задание с ботом
 1) Создать файл .env на уровне requirements.txt
-2) Добавить токен телеграм бота
+2) Добавить токен телеграм бота в файл .env TELEGRAM_BOT_TOKEN='8318184787:AAEtqRanJHh3eZYhnP5UC-cR1gK3mv4_JZE'
 3) Создать в телеграме закрытый чат с ботом, написать туда сообщение
 4) Перейти в директорию telegram 
 5) Запустить команду python main.py
